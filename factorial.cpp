@@ -3,6 +3,7 @@
 int factorial(int n){
 if(n<0){
 
+
 printf("Enter a positive number :");
 return -1;
 }
