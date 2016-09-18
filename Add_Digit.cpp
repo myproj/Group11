@@ -1,3 +1,4 @@
+//Calculating sum of digits of a number
 #include<stdio.h>
  
 int main()
@@ -16,7 +17,7 @@ int main()
       n = n / 10;
 	  printf("The n is %d\n", n);
    }
- 
+ //Displaying the sum
    printf("Sum of digits of entered number = %d\n",sum);
  
    return 0;
